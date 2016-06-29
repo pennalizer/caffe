@@ -1,5 +1,7 @@
 # Caffe
 
+This is a branch of Caffe changed and used by pennalizer.
+
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
 
